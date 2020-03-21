@@ -1,8 +1,8 @@
-title: ITS LIT
+title: The Life of Sushi Rais
 baseURL: /
 params:
   layout_style: grid
-  palette: green
+  palette: red
   header:
     title: Ampersand
     logo_img: images/logo.png
