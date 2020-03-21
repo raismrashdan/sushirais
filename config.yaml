@@ -2,7 +2,7 @@ title: The Life of Sushi Rais
 baseURL: /
 params:
   layout_style: grid
-  palette: red
+  palette: blue
   header:
     title: Ampersand
     logo_img: images/logo.png
