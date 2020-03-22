@@ -5,10 +5,10 @@ params:
   palette: blue
   header:
     title: Ampersand
-    logo_img: /images/temp.jpg
+    logo_img: ''
     has_nav: true
   footer:
-    content: '&copy - 2020 Rais Rashdan; Made with ❤️ in Melbourne'
+    content: Made with ❤️ in Melbourne
     links: []
     has_social: true
 menu:
