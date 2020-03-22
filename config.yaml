@@ -5,15 +5,14 @@ params:
   palette: blue
   header:
     title: Ampersand
-    logo_img: images/logo.png
+    logo_img: /images/temp.jpg
     has_nav: true
   footer:
-    content: '&copy; All rights reserved.'
-    links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
-        new_window: true
+    content: '&copy - 2020 Rais Rashdan; Made with ❤️ in Melbourne'
+    links: []
     has_social: true
+menu:
+  main: []
 disableKinds:
   - RSS
   - taxonomy
