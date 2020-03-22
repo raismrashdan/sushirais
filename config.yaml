@@ -2,7 +2,7 @@ title: The Life of Sushi Rais
 baseURL: /
 params:
   layout_style: grid
-  palette: blue
+  palette: red
   header:
     title: Sushi Rais
     logo_img: ''
