@@ -4,7 +4,7 @@ params:
   layout_style: grid
   palette: red
   header:
-    title: Sushi Rais
+    title: Rais Rashdan
     logo_img: ''
     has_nav: true
   footer:
