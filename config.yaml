@@ -8,7 +8,7 @@ params:
     logo_img: ''
     has_nav: true
   footer:
-    content: Made with ❤️ in Melbourne
+    content: '&copyright 2020 Rais Rashdan - Made with ❤️ in Melbourne'
     links: []
     has_social: true
 menu:
